@@ -107,3 +107,24 @@ header{
 }
 
 
+#img4{
+    width:65%;
+    position: absolute;
+    top:50px;
+    left:25%;
+}
+
+
+#img5{
+    width:72%;
+    position: absolute;
+    top:740px;
+    left:19%;
+}
+
+#img6{
+    width:62%;
+    position: absolute;
+    top:1150px;
+    left:15%;
+}
