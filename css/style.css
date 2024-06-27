@@ -98,11 +98,12 @@ header{
 
 
 .content2{
-    width:40%;
+    width:50%;
     height:1700px;
     position: absolute;
     top:0px;
-    left:55%;
+    left:50%;
+    background-color:aquamarine;
 }
 
 
