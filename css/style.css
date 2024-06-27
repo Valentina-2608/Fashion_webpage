@@ -40,7 +40,7 @@ header{
 
 .content{
     width:100%;
-    height:1800px;
+    height:2400px;
     position:absolute;
     top:600px;
     left:0px;
@@ -48,7 +48,7 @@ header{
 
 .content1{
     width:50%;
-    height:1800px;
+    height:2400px;
     position: absolute;
     top:50px;
     left:0%;
@@ -89,6 +89,15 @@ header{
     top:1200px;
     left:8%;
 }
+
+#img7{
+    width:55%;
+    position: absolute;
+    top:1800px;
+    left:25%;
+}
+
+
 
 
 .content2{
