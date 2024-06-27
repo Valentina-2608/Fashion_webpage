@@ -36,3 +36,13 @@ header{
 .header_image>img{
     width:90%;
 }
+
+
+.content{
+    width:100%;
+    height:2500px;
+    position:absolute;
+    top:600px;
+    left:0px;
+    background-color: bisque;
+}
