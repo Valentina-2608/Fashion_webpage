@@ -69,6 +69,33 @@ header{
     left:0%;
 }
 
+#img1{
+    width:70%;
+    position: absolute;
+    top:120px;
+    left:4%;
+}
+
+
+#img2{
+    width:65%;
+    position: absolute;
+    top:500px;
+    left:19%;
+}
+
+#img3{
+    width:62%;
+    position: absolute;
+    top:1200px;
+    left:8%;
+}
+
+
+
+
+
+
 
 .content2{
     width:40%;
