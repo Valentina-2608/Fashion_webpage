@@ -50,7 +50,6 @@ header{
 .content1{
     width:40%;
     height:2000px;
-    background-color: darkblue;
     position: absolute;
     top:0px;
     left:5%;
@@ -75,7 +74,6 @@ header{
 .content2{
     width:40%;
     height:2000px;
-    background-color: green;
     position: absolute;
     top:0px;
     left:55%;
