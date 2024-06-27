@@ -70,3 +70,19 @@ header{
     color:white;
     text-align:center;
 }
+
+
+.content2{
+    width:40%;
+    height:2000px;
+    background-color: green;
+    position: absolute;
+    top:0px;
+    left:55%;
+}
+
+
+.content2>img{
+    margin-top:60px;
+    width:70%;
+}
