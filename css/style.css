@@ -1,6 +1,6 @@
 .main{max-width: 100%;
 width:1200px;
-height:2600px;
+height:3200px;
 background-color: black;
 margin:0 auto;
 position: relative;}
@@ -52,7 +52,6 @@ header{
     position: absolute;
     top:50px;
     left:0%;
-    background-color: antiquewhite;
 }
 
 
@@ -92,18 +91,12 @@ header{
 }
 
 
-
-
-
-
-
 .content2{
     width:50%;
     height:1800px;
     position: absolute;
     top:0px;
     left:50%;
-    background-color:aquamarine;
 }
 
 
