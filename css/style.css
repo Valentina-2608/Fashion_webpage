@@ -113,7 +113,7 @@ header{
     width:65%;
     position: absolute;
     top:50px;
-    left:25%;
+    right:10%;
 }
 
 
@@ -121,19 +121,19 @@ header{
     width:72%;
     position: absolute;
     top:740px;
-    left:19%;
+    right:19%;
 }
 
 #img6{
     width:62%;
     position: absolute;
     top:1150px;
-    left:15%;
+    right:15%;
 }
 
 #img8{
     width:55%;
     position: absolute;
     top:1900px;
-    left:30%;
+    right:10%;
 }
